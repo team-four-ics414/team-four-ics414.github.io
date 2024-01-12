@@ -195,6 +195,26 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 </div>
 
+<div>
+
+<img src="images/team/joel.jpeg" alt="Joel's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
+
+</div>
+
+<div>
+
+<h3 style="text-align:center;"><a href="https://joelvanta.github.io/">Joel Vanta</a></h3>
+
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>Joel is a senior Computer Science student with a concentration in Security Science and expecting to graduate in Spring 2024.</p>
+
+<p>Interests: Software Engineering, Cybersecurity, Web Development</p>
+
+</div>
+
+</div>
+
 - more members should be added here, follow the same pattern...
 
 </div>
