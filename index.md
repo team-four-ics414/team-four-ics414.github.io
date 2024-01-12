@@ -223,7 +223,7 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 <div>
 
-<h3 style="text-align:center;"><a href="https://kamanelelehua.github.io/">Victoria Ka'aihili</h3>
+<h3 style="text-align:center;"><a href="https://kamanelelehua.github.io/">Victoria Ka'aihili</a></h3>
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
