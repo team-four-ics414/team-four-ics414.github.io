@@ -215,6 +215,26 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 </div>
 
+<div>
+
+<img src="images/team/Victoria.png" alt="Victoria's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
+
+</div>
+
+<div>
+
+<h3 style="text-align:center;">Victoria Ka'aihili</h3>
+
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>Victoria is a senior Computer Engineering student at the University of Hawaii at Manoa and expecting to graduate in Summer 2024.</p>
+
+<p>Interests: Software Engineering, Web Development, App Development</p>
+
+</div>
+
+</div>
+
 - more members should be added here, follow the same pattern...
 
 </div>
