@@ -149,7 +149,7 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Tell something about yourself</p>
+<p>I am a senior in the general track Computer Science program and expect to graduate in Summer 2024.  My interests include video game design, programming, and machine learning. </p>
 
 </div>
 
