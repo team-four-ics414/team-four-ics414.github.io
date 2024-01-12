@@ -163,11 +163,11 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 <div>
 
-<h3 style="text-align:center;">Gavyn Gostage</h3>
+<h3 style="text-align:center;"><a href="gavyngostage.github.io">Gavyn Gostage</a></h3>
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Tell something about yourself</p>
+<p>Gavyn is studying for his Undergrad in Information and Computer Sciences. He is set to graduate FALL 2024</p>
 
 </div>
 
