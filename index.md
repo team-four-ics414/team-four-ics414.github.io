@@ -207,9 +207,9 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Joel is a senior Computer Science student with a concentration in Security Science and expecting to graduate in Spring 2024.</p>
+<p>Joel is a senior Computer Science with a concentration in Security Science student at the University of Hawaii at Manoa and expecting to graduate in Spring 2024.</p>
 
-<p>Interests: Software Engineering, Cybersecurity, Web Development</p>
+<p>Interests: Cybersecurity, Artificial Intelligence, Machine Learning</p>
 
 </div>
 
