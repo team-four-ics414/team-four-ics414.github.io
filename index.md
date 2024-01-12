@@ -217,7 +217,7 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/org
 
 <div>
 
-<img src="images/team/Victoria.png" alt="Victoria's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
+<img src="images/team/Victoria.jpg" alt="Victoria's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
