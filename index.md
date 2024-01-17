@@ -91,7 +91,7 @@ The following sections document the development history of BowFolios. -->
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [Voluntree GitHub Project Board M1](github.com/orgs/team-four-ics414/projects/1/views/1):
+Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/team-four-ics414/projects/1/views/1?layout=board):
 
 <!-- ![](images/project-board-1.png) -->
 
