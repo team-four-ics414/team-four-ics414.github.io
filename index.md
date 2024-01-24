@@ -61,6 +61,11 @@ This page is for organizations to add activities for volunteers who might be int
 
 ![](images/chat-mockup.png)
 
+### FAQ Page
+
+Frequently asked questions page for volunteers
+![](images/faq-mockup.png)
+
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
