@@ -155,7 +155,7 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Tell something about yourself</p>
+<p>Michael is studying for his BS in Computer Science at UH Manoa. He expects to graduate in Fall 2024.</p>
 
 </div>
 
