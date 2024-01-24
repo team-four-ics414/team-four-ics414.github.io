@@ -155,7 +155,7 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Tell something about yourself</p>
+<p>Michael is a Computer Science student.</p>
 
 </div>
 
@@ -254,6 +254,28 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 <p>Victoria is a senior Computer Engineering student at the University of Hawaii at Manoa and expecting to graduate in Summer 2024.</p>
 
 <p>Interests: Software Engineering, Web Development, App Development</p>
+
+</div>
+
+</div>
+
+<div>
+
+<img src="images/team/than.png" alt="Thanh's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
+
+</div>
+
+<div>
+
+<h3 style="text-align:center;"><a href="https://thanhly1.github.io/">Thanh Ly</a></h3>
+
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.</p>
+
+<p>Interests: Software Engineering, Cybersecurity, AI, Hydroponic</p>
+
+<p>I want to upgrade my Software Engineering skills and AI skills</p>
 
 </div>
 
