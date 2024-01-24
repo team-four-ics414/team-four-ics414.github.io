@@ -29,11 +29,10 @@ New users can create a new account in the signup page.
 
 ### Login Page
 
-![](images/login-page.png)
-
 Page for existing users to sign in.
 
-![](images/login-mockup.png)
+![](images/login-page.png)
+
 
 ### Volunteer Opportunities Page
 
