@@ -70,9 +70,10 @@ Frequently asked questions page for volunteers
 
 ### Calendar Page
 
+This page allows users to view a calendar of upcoming events. There might be a weekly card that show up on the homepage to show the weekly events on an organization page.
+
 ![](images/calendar-mockup.png)
 
-This page allows users to view a calendar of upcoming events. There might be a a weekly card that show up on the homepage to show the weekly events on an organization page.
 
 ## Developer Guide
 
