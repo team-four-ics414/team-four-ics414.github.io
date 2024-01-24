@@ -29,6 +29,8 @@ New users can create a new account in the signup page.
 
 ### Login Page
 
+![](images/login-page.png)
+
 Page for existing users to sign in.
 
 ![](images/login-mockup.png)
@@ -65,6 +67,12 @@ This page is for organizations to add activities for volunteers who might be int
 
 Frequently asked questions page for volunteers
 ![](images/faq-mockup.png)
+
+### Calendar Page
+
+![](images/calendar-mockup.png)
+
+This page allows users to view a calendar of upcoming events. There might be a a weekly card that show up on the homepage to show the weekly events on an organization page.
 
 ## Developer Guide
 
@@ -155,7 +163,9 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
-<p>Michael is a Computer Science student.</p>
+
+<p>Michael is studying for his BS in Computer Science at UH Manoa. He expects to graduate in Fall 2024.</p>
+
 
 </div>
 
