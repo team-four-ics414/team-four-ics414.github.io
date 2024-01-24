@@ -21,6 +21,45 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-mockup.png)
 
+### Signup Page
+
+New users can create a new account in the signup page.
+
+![](images/signup-mockup.png)
+
+### Login Page
+
+Page for existing users to sign in.
+
+![](images/login-mockup.png)
+
+### Volunteer Opportunities Page
+
+This page allows users to look up and filter volunteer opportunities based on their preferences.
+
+![](images/opportunities-mockup.png)
+
+### Add Nonprofit Page
+
+This page nonprofit groups or organizations to add their information, such as their contact info and mission.
+
+![](images/addnonprofit-mockup.png)
+
+### Nonprofits Dashboard Page
+
+This page allows users to view a list of nonprofits and more information about them.
+
+![](images/nonprofits-mockup.png)
+
+### Add Activity Page
+
+This page is for organizations to add activities for volunteers who might be interested. They can add the frequency, time, location, requirements, and other details about the activity.
+
+![](images/addactivity-mockup.png)
+
+### Chat Page
+
+![](images/chat-mockup.png)
 
 ## Developer Guide
 
@@ -91,9 +130,7 @@ The following sections document the development history of BowFolios. -->
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/team-four-ics414/projects/1/views/1?layout=board):
-
-<!-- ![](images/project-board-1.png) -->
+Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/team-four-ics414/projects/1/views/1?layout=board).
 
 
 ## Team
@@ -132,24 +169,6 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 <div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
 
 <p>Silvia is a Computer Science student expecting to graduate in Spring 2024. Her interests are in Programming, Web Design, and Graphic Design.</p>
-
-</div>
-
-</div>
-
-<div>
-
-<img src="images/team/sean.jpg" alt="Sean's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
-
-</div>
-
-<div>
-
-<h3 style="text-align:center;">Sean Dunston</h3>
-
-<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
-
-<p>I am a senior in the general track Computer Science program and expect to graduate in Summer 2024.  My interests include video game design, programming, and machine learning. </p>
 
 </div>
 
@@ -235,6 +254,6 @@ Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github
 
 </div>
 
-- more members should be added here, follow the same pattern...
+
 
 </div>
