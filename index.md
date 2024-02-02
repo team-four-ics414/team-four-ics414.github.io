@@ -145,6 +145,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/team-four-ics414/projects/1/views/1?layout=board).
 
+[![ci-voluntree](https://github.com/ics-software-engineering/meteor-application-template-production/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-production/actions/workflows/ci.yml)
 
 ## Team
 <a href="https://docs.google.com/document/d/1HzVU5eNaOKwZTcOlpzt41Stc-MVNvmtfGm1l0Z7hIWY/edit#heading=h.tr1mqkwqj2nv">Team Contract</a>
