@@ -145,6 +145,18 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/team-four-ics414/projects/1/views/1?layout=board).
 
+### Milestone 2: Functionality & Acceptance Testing
+
+The goal of Milestone 2 was to add functionality to the mockup pages and pass the acceptance tests.
+
+Milestone 2 was managed using [Voluntree GitHub Project Board M2](https://github.com/orgs/team-four-ics414/projects/3).
+
+### Milestone 3: More Functionality
+
+The goal of Milestone 3 was add more functionality to pages.
+
+Milestone 3 was managed using [Voluntree GitHub Project Board M3](https://github.com/orgs/team-four-ics414/projects/6).
+
 [![ci-voluntree](https://github.com/team-four-ics414/voluntree/actions/workflows/ci.yml/badge.svg)](https://github.com/team-four-ics414/voluntree/actions/workflows/ci.yml)
 ## Team
 <a href="https://docs.google.com/document/d/1HzVU5eNaOKwZTcOlpzt41Stc-MVNvmtfGm1l0Z7hIWY/edit#heading=h.tr1mqkwqj2nv">Team Contract</a>
