@@ -19,7 +19,7 @@ This section provides a walkthrough of the Voluntree user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-mockup.png)
+![](images/landing-page.png)
 
 ### Signup Page
 
@@ -58,9 +58,9 @@ This page is for organizations to add activities for volunteers who might be int
 
 ![](images/addactivity-mockup.png)
 
-### Chat Page
+### Chat Feature
 
-![](images/chat-mockup.png)
+![](images/chat.png)
 
 ### FAQ Page
 
